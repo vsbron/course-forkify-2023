@@ -9,14 +9,11 @@ Recipe application with custom recipe uploads.
 
 ## Improvements
 
-- Changed logo to a modern look
-- Changed color scheme
-- Changed the Fractional API for a different one
-- Some minor code improvements
-
-## Pending improvements
-
-- Responsive version
+- Changed logo to a modern look;
+- Changed color scheme;
+- Changed the Fractional API for a different one;
+- Some minor code improvements;
+- Added responsive support up to 320px;
 
 ### Notes
 
