@@ -2,7 +2,10 @@
 
 Recipe application with custom recipe uploads.
 
-- Project was built as a final project of the Javascript learning course with heavy emphasis on the MVC architecture
+## Technical info
+
+- Was built with heavy emphasis on MVC archtecture;
+- Compressed and deployed via Parcel;
 
 ## Improvements
 
@@ -14,3 +17,7 @@ Recipe application with custom recipe uploads.
 ## Pending improvements
 
 - Responsive version
+
+### Notes
+
+- Live version: https://vsbron-course-forkify-2023.netlify.app/
