@@ -14,11 +14,21 @@
       margin-left: 0;
       margin-right: 4rem;
     }
+
+    @media only screen and (max-width: $bp-smallest) {
+      margin-right: 0;
+      margin-bottom: 2rem;
+    }
   }
 
   @media only screen and (max-width: $bp-small) {
     padding: 0 4rem;
     justify-content: flex-start;
+  }
+
+  @media only screen and (max-width: $bp-smallest) {
+    flex-direction: column;
+    padding: 2rem;
   }
 }
 
@@ -57,6 +67,10 @@
       &::placeholder {
         color: white;
       }
+    }
+
+    @media only screen and (max-width: $bp-smallest) {
+      width: 20rem;
     }
   }
 

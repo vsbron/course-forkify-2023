@@ -17,6 +17,7 @@ class SearchView extends View {
   // Event handler
   addHandlerSearch(handler) {
     this._parentElement.addEventListener("submit", function (e) {
+      document.querySelector(".search-results").classList.add("active");
       e.preventDefault();
       handler();
     });
